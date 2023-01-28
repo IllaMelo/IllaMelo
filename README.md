@@ -3,12 +3,11 @@
 
 - :star: Sou formada em Administração pela Universidade de Brasilia
 - :exclamation: Estudei 7 semestres de Gestão de Politicas Publicas, também na Universidade de Brasilia
-- :boom: Atualmente curso Analise e Desenvolvimento de Sistemas no IESB, e estou no ultimo semestre
-- :zap: Também estudo licenciatura em Matemática na Universidade de Brasilia e faço uma especialização em Business Intelligence no IESB
-- :cyclone: Faço estágio na SENATRAN e integro o Grupo de Pesquisa em Gestão e Contabilidade Publica e Privada - GESCONPP
+- :boom: Também cursei Analise e Desenvolvimento de Sistemas no IESB.
+- :zap: Atualmente estudo licenciatura em Matemática na Universidade de Brasilia e faço especialização em Business Intelligence no IESB
+- :cyclone: Trabalho como Analista Tecnico para a G4F Soluções e integro o Grupo de Pesquisa em Gestão e Contabilidade Publica e Privada - GESCONPP
 
 
-:question: Adoro estar adquirindo conhecimento e não gosto de ficar muito tempo sem fazer nada, no maximo assisto anime. Minhas aspirações por enquanto envolvem pesquisa e analise de dados para a criação de ferramentas uteis aos tomadores de decisão  
 
  ![tenor](https://user-images.githubusercontent.com/70285265/170130543-9cf3238a-bb5d-4ce1-b4d3-ac3a59d42016.gif) 
  
