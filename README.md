@@ -3,7 +3,7 @@
 
 - :star: Sou formada em Administração pela Universidade de Brasilia
 - :exclamation: Estudei 7 semestres de Gestão de Politicas Publicas, também na Universidade de Brasilia
-- :boom: Também cursei Analise e Desenvolvimento de Sistemas no IESB.
+- :boom: Também cursei e me formei no Tecnologo em Analise e Desenvolvimento de Sistemas pelo IESB.
 - :zap: Atualmente estudo licenciatura em Matemática na Universidade de Brasilia e faço especialização em Business Intelligence no IESB
 - :cyclone: Trabalho como Analista Tecnico para a G4F Soluções e integro o Grupo de Pesquisa em Gestão e Contabilidade Publica e Privada - GESCONPP
 
